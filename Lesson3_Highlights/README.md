@@ -11,7 +11,7 @@ Web Application Development
 (Devonte Aird)
 
 ## Project Description:
-(This assignment takes a look at verion control systems, specifically Git, and how it is useful to web development)
+(This assignment takes a look at version control systems, specifically Git, and how it is useful to web development)
 
 ## Lessons Learned in the Assignment:
 1. (I learned about version control and how beneficial it is to keep multiple versions of a file)
